@@ -1,3 +1,17 @@
-Programming hobbyist
-
-![Josh](https://github.com/JuicerV3/JuicerV3/assets/156657646/c0eeefd5-bf46-444c-972a-e8ca3f6120ee)
+# Sup! JuicerV3 :wave:
+### <p align="center">**I HAVE TWO SIDE**
+### <p align="center">Photographer && Hobbyist programmer
+## Programming Journey
+```js
+const journey = {
+  learning: {
+    lang: 'JavaScript',
+    nextup: 'TypeScript',
+    sideproject: 'Discordjs bot',
+  },
+  langs: [Python, cpp, cSharp, HTML],
+  frameworks: [Node, ASP.NET],
+};
+```
+##
+Professional gimble shaker
