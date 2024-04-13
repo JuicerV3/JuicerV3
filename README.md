@@ -1,7 +1,4 @@
 # Sup! JuicerV3 :wave:
-### <p align="center">**I HAVE TWO SIDE**
-### <p align="center">Photographer && Hobbyist programmer
-## Programming Journey
 ```js
 const journey = {
   learning: {
@@ -13,5 +10,5 @@ const journey = {
   frameworks: [Node, ASP.NET],
 };
 ```
-##
-Professional gimble shaker
+
+### Photographer && Hobbyist programmer
