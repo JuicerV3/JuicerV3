@@ -8,7 +8,7 @@ const journey = {
   },
   langs: [Python, cpp, cSharp, HTML],
   frameworks: [Node, ASP.NET],
-  interests: [Artificial Intelligence, Cloud computing, Operating System]
+  interests: [Machine learning, Cloud computing, Operating System]
 };
 ```
 
