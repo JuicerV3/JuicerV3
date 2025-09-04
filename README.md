@@ -21,14 +21,6 @@ Hobby programmer from Thailand.
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&labelColor=black&logo=dotnet&logoColor=fff)
 ![.NET](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&labelColor=black&logo=ffmpeg&logoColor=fff)
-#### Artificial Intelligence:
-![Ollama](https://img.shields.io/badge/Ollama-fff?style=for-the-badge&labelColor=black&logo=ollama&logoColor=fff)
-![Gemini](https://img.shields.io/badge/Gemini-000000?style=for-the-badge&labelColor=black&color=8E75B2&logo=googlegemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&labelColor=black&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&labelColor=black&logo=claude&logoColor=fff)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&labelColor=black&logo=perplexity&logoColor=fff)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&labelColor=black&color=white&logo=githubcopilot&logoColor=fff)
-![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?style=for-the-badge&labelColor=black&logo=deepseek&logoColor=fff)
 #### Operating System:
 ![Android Open Source Project](https://img.shields.io/badge/Android%20Open%20Source%20Project-3DDC84?style=for-the-badge&labelColor=black&logo=android&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-ffffff?style=for-the-badge&logo=apple&labelColor=black&logoColor=F0F0F0)
