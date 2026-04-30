@@ -26,6 +26,8 @@
 
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-078EFA?style=for-the-badge&labelColor=black&logo=googlegemini&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&labelColor=black&logo=Node.js&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&labelColor=black&logo=Nextdotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=React&logoColor=fff)
 
 - Operating System:
 
