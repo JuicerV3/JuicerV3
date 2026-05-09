@@ -7,8 +7,8 @@
 
 # Activities
 ---
-* Learning: Agentic harness engineering
-* Active project: Agentic Orchestrator
+* Learning: Agentic engineering
+* Active project: Something along the line...
 ```
 <sub>"A machine doesn't improvise well because you cannot program a fear of death. Our survival instinct is our greatest source of inspiration." — Dr. Mann</sub>
 
