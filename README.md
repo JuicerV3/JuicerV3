@@ -20,14 +20,14 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&labelColor=black&logo=gnubash&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=fff)
 
 - Platforms:
 
-![Gemini](https://img.shields.io/badge/Google%20Gemini-078EFA?style=for-the-badge&labelColor=black&logo=googlegemini&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&labelColor=black&logo=Node.js&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&labelColor=black&logo=Nextdotjs&logoColor=fff)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=React&logoColor=fff)
+![Svelte](https://img.shields.io/badge/Svelte-f1413d?style=for-the-badge&labelColor=black&logo=svelte&logoColor=fff)
 
 - Operating System:
 
